@@ -1,0 +1,31 @@
+{
+  "users": [
+                {
+                  "id": 1,
+                  "username": "Raj",
+                  "email": "raj@gmail",
+                  "password": "Raj123",
+                  "dob": "10/03/1998",
+                  "phone": 123456789,
+                  "pic":"",
+                  "gender":"",
+                  "active_bookings":[{
+                    "ticket_no":123,
+
+                    "busname":"airavath",
+                    "busnumber":"KA01234",
+                    "seats":"1",
+                    "distance":"500 Km",
+                    "seatno":["E5"],
+                    "boardnig":"bengalore",
+                    "departure":"Mumbai",
+                    "boardnig_time":"10:00pm",
+                    "departure_time":"10:00pm",
+                    "journy_time":"10 hrs",
+                    "price":"1000rs",
+                    "time":"19/05/2023"
+                  }],
+                  "privious_bookings":[]
+                }
+              ]
+}
